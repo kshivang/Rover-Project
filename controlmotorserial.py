@@ -27,4 +27,4 @@ def handle_command(command):
     return f"Command '{command}' sent to Arduino."
 
 if __name__ == '__main__':
-    app.run(debug=True, host='192.168.86.23', port=5001)
+    app.run(debug=True, host='0.0.0.0', port=5001)

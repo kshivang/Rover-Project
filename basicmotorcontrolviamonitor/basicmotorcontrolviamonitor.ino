@@ -3,7 +3,7 @@
 #define ENCA 2 // YELLOW
 #define ENCB 3 // GREEN
 #define PWM 8
-#define IN2 24
+#define IN2 23
 #define IN1 22
 
 volatile int posi = 0; // specify posi as volatile: https://www.arduino.cc/reference/en/language/variables/variable-scope-qualifiers/volatile/
