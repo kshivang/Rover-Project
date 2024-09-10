@@ -13,7 +13,7 @@ char incomingByte;
 #define IN1_FL 41
 
 // middle left motor
-#define ENCA_ML 20 // Interrupt pin
+#define ENCA_ML 22 // Interrupt pin
 #define ENCB_ML 23
 #define PWM_ML 8
 #define IN2_ML 53
@@ -41,7 +41,7 @@ char incomingByte;
 #define IN1_MR 49
 
 // back right motor
-#define ENCA_BR 21 // Interrupt pin
+#define ENCA_BR 24 // Interrupt pin
 #define ENCB_BR 45
 #define PWM_BR 11
 #define IN2_BR 39
