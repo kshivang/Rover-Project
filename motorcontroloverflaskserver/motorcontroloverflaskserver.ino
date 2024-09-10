@@ -37,15 +37,15 @@ char incomingByte;
 #define ENCA_MR 18 // Interrupt pin
 #define ENCB_MR 46
 #define PWM_MR 6
-#define IN2_MR 50
-#define IN1_MR 49
+#define IN2_MR 49
+#define IN1_MR 50
 
 // back right motor
 #define ENCA_BR 24 // Interrupt pin
 #define ENCB_BR 45
 #define PWM_BR 11
-#define IN2_BR 39
-#define IN1_BR 38
+#define IN2_BR 38
+#define IN1_BR 39
 
 
 //Define servos
